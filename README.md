@@ -15,10 +15,10 @@ Grouping Tests :heavy_check_mark:
 Filename Conventions :heavy_check_mark:  
 Code Coverage :heavy_check_mark:  
 Assertions :heavy_check_mark:  
-What to test?  
-RTL Queries  
-getByRole  
-getByRole Options  
+What to test? :heavy_check_mark:  
+RTL Queries :heavy_check_mark:  
+getByRole :heavy_check_mark:  
+getByRole Options :heavy_check_mark:  
 getByLabelTest  
 getByPlaceholderText  
 getByText  
