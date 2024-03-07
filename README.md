@@ -19,17 +19,17 @@ What to test? :heavy_check_mark:
 RTL Queries :heavy_check_mark:  
 getByRole :heavy_check_mark:  
 getByRole Options :heavy_check_mark:  
-getByLabelTest  
-getByPlaceholderText  
-getByText  
-getByDisplayValue  
-getByAltText  
-getByTitle  
-getByTestId  
-Priority Order for Queries  
-Query Multiple Elements  
-TextMatch  
-queryBy  
+getByLabelText :heavy_check_mark:  
+getByPlaceholderText :heavy_check_mark:  
+getByText :heavy_check_mark:  
+getByDisplayValue :heavy_check_mark:  
+getByAltText :heavy_check_mark:  
+getByTitle :heavy_check_mark:  
+getByTestId :heavy_check_mark:  
+Priority Order for Queries :heavy_check_mark:  
+Query Multiple Elements :heavy_check_mark:  
+TextMatch :heavy_check_mark:  
+queryBy :heavy_check_mark:  
 findBy  
 Manual Queries  
 Debugging  
