@@ -30,12 +30,12 @@ Priority Order for Queries :heavy_check_mark:
 Query Multiple Elements :heavy_check_mark:  
 TextMatch :heavy_check_mark:  
 queryBy :heavy_check_mark:  
-findBy  
-Manual Queries  
-Debugging  
-Testing Playground  
-User Interactions  
-Pointer Interactions  
+findBy :heavy_check_mark:  
+Manual Queries :heavy_check_mark:  
+Debugging :heavy_check_mark:  
+Testing Playground :heavy_check_mark:  
+User Interactions :heavy_check_mark:  
+Pointer Interactions :heavy_check_mark:  
 Keyboard Interactions  
 Providers  
 Custom Render Functions  
