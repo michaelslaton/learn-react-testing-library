@@ -36,9 +36,10 @@ Debugging :heavy_check_mark:
 Testing Playground :heavy_check_mark:  
 User Interactions :heavy_check_mark:  
 Pointer Interactions :heavy_check_mark:  
-Keyboard Interactions  
-Providers  
-Custom Render Functions  
+Keyboard Interactions :heavy_check_mark:  
+Providers :heavy_check_mark: 
+Custom Render Functions :heavy_check_mark:  
+Custom React Hooks  
 Act of Utility  
 Mocking Functions  
 Mocking HTTP Requests  
