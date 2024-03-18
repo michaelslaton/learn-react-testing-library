@@ -39,8 +39,8 @@ Pointer Interactions :heavy_check_mark:
 Keyboard Interactions :heavy_check_mark:  
 Providers :heavy_check_mark: 
 Custom Render Functions :heavy_check_mark:  
-Custom React Hooks  
-Act of Utility  
+Custom React Hooks :heavy_check_mark:  
+Act of Utility :heavy_check_mark:  
 Mocking Functions  
 Mocking HTTP Requests  
 MSW Setup  
