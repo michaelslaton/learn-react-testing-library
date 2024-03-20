@@ -41,10 +41,10 @@ Providers :heavy_check_mark:
 Custom Render Functions :heavy_check_mark:  
 Custom React Hooks :heavy_check_mark:  
 Act of Utility :heavy_check_mark:  
-Mocking Functions  
-Mocking HTTP Requests  
-MSW Setup  
-MSW Handlers  
+Mocking Functions :heavy_check_mark:  
+Mocking HTTP Requests :heavy_check_mark:  
+MSW Setup  :heavy_check_mark:  
+MSW Handlers :heavy_check_mark:  
 Testing with MSW  
 MSW Error Handling  
 Static Analysis Testing  
