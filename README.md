@@ -44,9 +44,9 @@ Act of Utility :heavy_check_mark:
 Mocking Functions :heavy_check_mark:  
 Mocking HTTP Requests :heavy_check_mark:  
 MSW Setup  :heavy_check_mark:  
-MSW Handlers :heavy_check_mark:  
-Testing with MSW  
-MSW Error Handling  
+MSW Handlers :anger:(Code appears to be obsolete)  
+Testing with MSW :anger:(Code appears to be obsolete)  
+MSW Error Handling :anger:(Code appears to be obsolete)  
 Static Analysis Testing  
 Eslint  
 Prettier  
